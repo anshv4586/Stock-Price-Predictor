@@ -46,4 +46,4 @@ Key libraries are listed in `requirements.txt`:
 Feel free to fork the repo, open a PR, or suggest enhancements via Issues.
 
 ---
-*Created by Rohan Jangra – © 2026*
+*Created by Ansh Verma – © 2026*
