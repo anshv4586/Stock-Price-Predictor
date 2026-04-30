@@ -14,9 +14,6 @@ A **premium‑grade** Streamlit dashboard for comparing and analysing peer stock
 
 ## 🛠️ Installation
 ```bash
-# Clone the repo (already done) and navigate to the project folder
-cd "c:/Users/rohan/stock edit 3"
-
 # Create a virtual environment (optional but recommended)
 python -m venv venv
 venv\Scripts\activate  # Windows
